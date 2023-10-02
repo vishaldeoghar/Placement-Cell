@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const DB = 'mongodb+srv://vishal123:Password123456@cluster0.lpb5inx.mongodb.net/';
+const DB = 'mongodb+srv://vishal123:Password123456@cluster0.lpb5inx.mongodb.net/placement';
 
 mongoose.connect(DB, {
 	useNewUrlParser: true,
